@@ -42,6 +42,7 @@ Measures water level using an ultrasonic sensor and indicates **LOW, MEDIUM, and
 **Key Concepts:**
 - Ultrasonic distance measurement  
 - Threshold-based decision logic  
+![Circuit Diagram](Project1/P1.png)
 
 ---
 
@@ -53,6 +54,7 @@ Monitors soil moisture, temperature, and humidity using ESP32 and displays data 
 - Analog sensor reading  
 - Environmental monitoring  
 - IoT data flow concept  
+![Circuit Diagram](Project2/P2.png)
 
 ---
 
@@ -63,6 +65,7 @@ Controls appliances (simulated using LEDs) through ESP/Arduino logic, demonstrat
 **Key Concepts:**
 - GPIO control  
 - Automation logic  
+![Circuit Diagram](Project3/P3.png)
 
 ---
 
@@ -74,6 +77,7 @@ Detects fire or gas leakage using gas and temperature sensors and triggers alert
 - Sensor thresholds  
 - Safety systems  
 - Alert mechanisms  
+![Circuit Diagram](Project4/P4.png)
 
 ---
 
@@ -84,6 +88,7 @@ Detects parking slot availability using IR sensors and displays occupancy status
 **Key Concepts:**
 - Digital sensor input  
 - Slot management logic  
+![Circuit Diagram](Project5/P5.png)
 
 ---
 
@@ -105,6 +110,7 @@ Monitors body temperature, heart rate, and detects falls using ESP32 and simulat
 **Key Concepts:**
 - Biomedical signal simulation  
 - Emergency alert logic  
+![Circuit Diagram](Project7/P7.png)
 
 ---
 
@@ -115,6 +121,7 @@ Monitors garbage bin fill level using an ultrasonic sensor and sends alerts when
 **Key Concepts:**
 - Smart city applications  
 - Waste management automation  
+![Circuit Diagram](Project8/P8.png)
 
 ---
 
